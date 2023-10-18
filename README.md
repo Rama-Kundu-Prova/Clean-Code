@@ -13,7 +13,12 @@
   <li>No argument best, highest 3 arguments</li>
   <li>Avoid output arguments. i.e:  public void appendFooter(StringBuffer report) -> NOOOOOOOOO!  , report.appendFooter();->YESSSSSSSS!
 </li>
-  <li>Avoid Flag arguments</li>
+  <li>Avoid Flag arguments i.e:
+  <code>render(true)</code>
+    Refractor as:
+    <code> renderForSuite()<br>renderForSingleTest()</code>
+    
+  </li>
   <li>Delete dead function that is never called</li>
 </ul>
 
