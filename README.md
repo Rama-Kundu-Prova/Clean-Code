@@ -33,6 +33,7 @@
   <li>Inappropriate static</li>
   <li>Use Explanatory Variables</li>
   <li>Function Names Should Say What They Do</li>
+  <li>Understand the algorithm</li>
   
   
  
