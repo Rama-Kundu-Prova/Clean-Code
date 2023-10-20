@@ -12,7 +12,7 @@
 
 
 <h2>General</h2>
-<u>
+<ul>
   <li>Minimize number and extent of extra languages</li>
   <li>Implement Obvious behaviour</li>
   <li>DRY, instead use abstraction</li>
@@ -28,8 +28,5 @@ HttpServletResponse, then use the same variable name consistently in the other f
 that use HttpServletResponse objects.</li>
 
   
-</u>
+</ul>
 
-<h1>Having Problem in Understanding</h1>
-<li>Code at wrong level of abstraction (pg 321)</li>
-<li>Base class depending on their derivatives (pg 322)</li>
