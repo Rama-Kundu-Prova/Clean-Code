@@ -12,21 +12,23 @@
 
 
 <h2>General</h2>
-<ul>
-  <li>Minimize number and extent of extra languages</li>
+<ol>
+  <li>Minimize extra languages</li>
   <li>Implement Obvious behaviour</li>
-  <li>DRY, instead use abstraction</li>
-  <li>Check all boundary value, worst case, dont just believe your intuition</li>
+  <li>Check boundary value</li>
   <li>Risky to override safety</li>
-  <li>Burry dead code</li>
-  
+  <li>DRY, use abstraction</li>
+  <li>Avoid wrong level abstraction</li>
+  <li>Base class should not depend on derivatives</li>
+  <li>Keep interface small and tight for loose coupling</li>
   <li>Variables and function should be defined close to where they are used</li>
-  <li>Maintain consistency. i.e. <br>1)If you name a method processVerificationRequest,
-then use a similar name, such as processDeletionRequest, for the methods that process
-other kinds of requests.<br> 2) If within a particular function you use a variable named response to hold an
-HttpServletResponse, then use the same variable name consistently in the other functions
-that use HttpServletResponse objects.</li>
+  <li>Burry dead code</li>
+  <li>Maintain consistency</li>
+  <li>Remove clutter</li>
+  
+  
+ 
 
   
-</ul>
+</ol>
 
