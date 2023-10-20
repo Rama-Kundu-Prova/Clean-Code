@@ -31,6 +31,7 @@
   <li>Avoid obscured content</li>
   <li>Misplaced responsibility</li>
   <li>Inappropriate static</li>
+  <li>Use Explanatory Variables</li>
   
   
  
