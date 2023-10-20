@@ -32,6 +32,7 @@
   <li>Misplaced responsibility</li>
   <li>Inappropriate static</li>
   <li>Use Explanatory Variables</li>
+  <li>Function Names Should Say What They Do</li>
   
   
  
