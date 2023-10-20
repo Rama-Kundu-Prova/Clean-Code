@@ -25,6 +25,12 @@
   <li>Burry dead code</li>
   <li>Maintain consistency</li>
   <li>Remove clutter</li>
+  <li>No artificial coupling</li>
+  <li>Feature envy</li>
+  <li>Avoid selector argument</li>
+  <li>Avoid obscured content</li>
+  <li>Misplaced responsibility</li>
+  <li>Inappropriate static</li>
   
   
  
