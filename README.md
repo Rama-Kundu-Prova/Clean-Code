@@ -1,15 +1,9 @@
 # Notes on Clean-Code
 <h2>Comments</h2>
-![Capture](https://github.com/Rama-Kundu-Prova/Clean-Code/assets/121850492/3bdfb6e3-a40a-468f-abbd-69793e902ccf)
+
+![CommentClean (3)](https://github.com/Rama-Kundu-Prova/Clean-Code/assets/121850492/0c904bbb-3702-44cc-807c-ad1b7512088f)
 
 
-<ul>
-  <li>Avoid inappropriate information like meta data authors, last modified date etc, include technical notes about code and design</li>
-  <li>Update old comments or just remove</li>
-  <li>Avoid redundancy. i.e. i++; //increment i</li>
-  <li>Write best comment</li>
-  <li>Remove commented out code</li>
-</ul>
 
 <h2>Functions</h2>
 
