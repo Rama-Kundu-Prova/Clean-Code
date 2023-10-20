@@ -40,6 +40,5 @@ that use HttpServletResponse objects.</li>
 </u>
 
 <h1>Having Problem in Understanding</h1>
-<li>Obvious behaviour is unimplemented (pg 319)</li>
 <li>Code at wrong level of abstraction (pg 321)</li>
 <li>Base class depending on their derivatives (pg 322)</li>
