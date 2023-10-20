@@ -1,5 +1,8 @@
 # Notes on Clean-Code
 <h2>Comments</h2>
+![Capture](https://github.com/Rama-Kundu-Prova/Clean-Code/assets/121850492/3bdfb6e3-a40a-468f-abbd-69793e902ccf)
+
+
 <ul>
   <li>Avoid inappropriate information like meta data authors, last modified date etc, include technical notes about code and design</li>
   <li>Update old comments or just remove</li>
