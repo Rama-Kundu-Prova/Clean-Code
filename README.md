@@ -34,7 +34,7 @@
   <li>Use Explanatory Variables</li>
   <li>Function Names Should Say What They Do</li>
   <li>Understand the algorithm</li>
-  <li>Make logical dependency physical, dependend module should not assume about the module it depends upon</li>
+  <li>Make logical dependency physical, dependent module should not assume about the module it depends upon</li>
   
   
  
