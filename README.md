@@ -36,6 +36,7 @@
   <li>Understand the algorithm</li>
   <li>Make logical dependency physical, dependent module should not assume about the module it depends upon</li>
   <li>Prefer polymorphism to if-else or switch case</li>
+  <li>Follow coding standard that the team uses</li>
   
   
  
