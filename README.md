@@ -72,12 +72,14 @@
      <li>Names should not be encoded with type or scope information</li>
      <li>Don’t use a simple verb to describe a function that does more
 than just that simple action. i.e.<br>
-     <code>public ObjectOutputStream getOos() throws IOException {
+     <code>
+       public ObjectOutputStream getOos() throws IOException {
 if (m_oos == null) {
 m_oos = new ObjectOutputStream(m_socket.getOutputStream());
 }
 return m_oos;
-}</code>
+}
+     </code>
       <br> Refractor the function name as <code>createOrReturnOos</code>
      </li>
    </ol>
