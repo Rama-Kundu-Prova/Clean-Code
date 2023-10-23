@@ -61,6 +61,11 @@
    <li>Don't inherit constant</li>
    <li>Use Enum instead of constant</li>
    </ol>
+
+   <h2>Names</h2>
+   <ol>
+     <li>Choose descriptive name</li>
+   </ol>
   
   
  
