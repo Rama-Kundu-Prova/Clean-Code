@@ -57,6 +57,7 @@
   <h2>Java</h2>
   <li>Wildcard import is better than specific import</li>
    <li>Don't inherit constant</li>
+   <li>Use Enum instead of constant</li>
   
   
  
