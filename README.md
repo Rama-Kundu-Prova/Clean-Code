@@ -45,6 +45,11 @@
   <li>Function should do one thing</li>
   <li>Use temporal coupling when order of function must be followed</li>
   <li>Do not be arbitrary</li>
+  <li>Encapsulate boundary condition. Instead using
+    <code>level+1</code>
+    Use
+    <code>nextLevel=level+1</code>
+  </li>
   
   
  
