@@ -38,7 +38,7 @@
   <li>Prefer polymorphism to if-else or switch case</li>
   <li>Follow coding standard that the team uses</li>
   <li>Replace raw number and name with constant identifier</li>
-  <li>Make dicission precisely. Use integer while using currency</li>
+  <li>Make decission precisely. Use integer while using currency</li>
   
   
  
