@@ -53,6 +53,10 @@
   <li>Function should descend only one level of abstraction</li>
   <li>Keep configuration data at higher level</li>
   <li>Avoid transitive negation</li>
+  <li>Don't inherit constant</li>
+
+  <h2>Java</h2>
+  <li>Wildcard import is better than specific import</li>
   
   
  
