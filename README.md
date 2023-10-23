@@ -50,6 +50,7 @@
     Use
     <code>nextLevel=level+1</code>
   </li>
+  <li>Function should descend only one level of abstraction</li>
   
   
  
