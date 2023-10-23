@@ -39,6 +39,10 @@
   <li>Follow coding standard that the team uses</li>
   <li>Replace raw number and name with constant identifier</li>
   <li>Make decission precisely. Use integer while using currency</li>
+  <li>Structure over convension</li>
+  <li>Use less boolean inside a condition</li>
+  <li>Avoid negetive conditional</li>
+  <li>Function should do one thing</li>
   
   
  
