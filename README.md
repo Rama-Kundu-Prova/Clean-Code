@@ -65,6 +65,8 @@
    <h2>Names</h2>
    <ol>
      <li>Choose descriptive name</li>
+     <li>Choose Names at the Appropriate Level of Abstraction</li>
+     <li>Use Standard Nomenclature Where Possible</li>
    </ol>
   
   
