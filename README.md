@@ -43,6 +43,7 @@
   <li>Use less boolean inside a condition</li>
   <li>Avoid negetive conditional</li>
   <li>Function should do one thing</li>
+  <li>Use temporal coupling when order of function must be followed</li>
   
   
  
