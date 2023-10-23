@@ -81,6 +81,23 @@ return m_oos;
       <br> Refractor the function name as <code>createOrReturnOos</code>
      </li>
    </ol>
+
+   <h2>Tests</h2>
+   <ol>
+   <li>A test suite should test everything that could possibly break</li>
+   <li>Coverage tools reports gaps in your testing strategy</li>
+   <li>Don’t Skip Trivial Tests</li>
+   <li>An Ignored Test Is a Question about an Ambiguity</li>
+   <li>Test boundary condition</li>
+   <li>Exhaustively Test Near Bugs</li>
+   <li>Pattern of failed test cases can also help us in debug.<br>
+i.e. we have wrote a program that add two integer, but when we are testing the result is like, (3, 5) = 15, (2, 7) = 14 or (5, 6) = 30. We can understand that we multiplied instead of summation. We need to check the equation again.</li>
+<li>Looking at the code that is or is not executed by the passing tests gives clues to why the
+failing tests fail.</li>
+<li>Tests Should Be Fast</li>
+
+     
+   </ol>
   
   
  
