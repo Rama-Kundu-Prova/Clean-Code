@@ -67,6 +67,7 @@
      <li>Choose descriptive name</li>
      <li>Choose Names at the Appropriate Level of Abstraction</li>
      <li>Use Standard Nomenclature Where Possible</li>
+     <li>Choose names that make the workings of a function or variable unambiguous</li>
    </ol>
   
   
