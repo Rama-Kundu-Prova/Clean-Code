@@ -53,6 +53,7 @@
   <li>Function should descend only one level of abstraction</li>
   <li>Keep configuration data at higher level</li>
   <li>Avoid transitive negation</li>
+  </ol>
 
   <h2>Java</h2>
   <ol>
@@ -65,5 +66,5 @@
  
 
   
-</ol>
+
 
