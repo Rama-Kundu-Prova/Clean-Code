@@ -69,6 +69,17 @@
      <li>Use Standard Nomenclature Where Possible</li>
      <li>Choose names that make the workings of a function or variable unambiguous</li>
      <li>Use Long Names for Long Scopes</li>
+     <li>Names should not be encoded with type or scope information</li>
+     <li>Don’t use a simple verb to describe a function that does more
+than just that simple action. i.e.<br>
+     <code>public ObjectOutputStream getOos() throws IOException {
+if (m_oos == null) {
+m_oos = new ObjectOutputStream(m_socket.getOutputStream());
+}
+return m_oos;
+}</code>
+      <br> Refractor the function name as <code>createOrReturnOos</code>
+     </li>
    </ol>
   
   
