@@ -52,6 +52,7 @@
   </li>
   <li>Function should descend only one level of abstraction</li>
   <li>Keep configuration data at higher level</li>
+  <li>Avoid transitive negation</li>
   
   
  
